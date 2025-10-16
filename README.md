@@ -290,4 +290,4 @@ Feel free to open issues or submit pull requests for improvements.
 
 ## Support
 
-For questions or issues, please open a GitHub issue or contact the maintainer.
+For questions or issues, please open a GitHub issue.
